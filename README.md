@@ -15,9 +15,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+Here's a walkthrough of implemented features:
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='https://github.com/ahmedzacki/iOS-Prework-Assignment/blob/main/ios-gif-prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming (Step 4)
 
