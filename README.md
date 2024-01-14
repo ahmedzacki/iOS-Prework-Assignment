@@ -2,7 +2,7 @@
 
 Submitted by: **Ahmed Handulle**
 
-**Change Color App** By creating this simple iOS app, I explored the foundations of iOS development. I started with setting up Xcode and familiarized myself with its IDE, I progressed to building a basic app using Swift and tested the UI using simulators. The app allows you to change the background color of an iphone 14 pro. [TODO]
+**Change Color App** By creating this simple iOS app, I explored the foundations of iOS development. I started with setting up Xcode and familiarized myself with its IDE, I progressed to building a basic app using Swift and tested the UI using simulators. The app allows you to change the background color of an iphone 14 pro. 
 
 Time spent: **2** hours spent in total
 
